@@ -1,99 +1,21 @@
-# Hi, I'm Sidharth 👋
+# 💫 About Me:
+# Hi, I'm Sidharth 👋<br><br>### Software Developer | Python • Java • Web Development • AI<br><br>I build software, web applications, and AI-powered projects with a focus on turning ideas into practical, usable products.<br><br>I'm interested in **software development, web technologies, Python, artificial intelligence, and automation**, and I continuously expand my skills by building real projects.<br><br>---<br><br>## 👨‍💻 About Me<br><br>- 💻 Software developer focused on building practical applications<br>- 🐍 Working with **Python** for programming, automation, and AI projects<br>- ☕ Developing applications with **Java**<br>- 🌐 Building responsive and interactive **web applications**<br>- 🤖 Exploring **Artificial Intelligence and AI-powered applications**<br>- 🧠 Interested in automation, problem solving, and emerging technologies<br>- 🔨 I prefer learning by building real projects rather than only studying theory<br>- 🚀 Continuously improving my development skills through hands-on work<br><br>---<br><br>## 🛠️ Technologies & Skills<br><br>### 💻 Programming Languages<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>### 🌐 Web Development<br><br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>### 🤖 AI & Automation<br><br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)<br>![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge)<br><br>### 🔧 Tools<br><br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br><br>---<br><br>## 🚀 What I Build<br><br>### 🌐 Web Applications<br><br>Interactive and responsive websites using HTML, CSS, and JavaScript.<br><br>- Responsive interfaces<br>- Interactive web applications<br>- Browser-based games<br>- Utility applications<br>- API-powered applications<br><br>### 🐍 Python Projects<br><br>Python projects focused on programming, automation, problem solving, and AI experimentation.<br><br>- Automation tools<br>- Utility applications<br>- AI-powered applications<br>- Data and logic-based projects<br><br>### ☕ Java Applications<br><br>Java projects focused on strengthening programming fundamentals and developing practical applications.<br><br>- Object-oriented programming<br>- Console applications<br>- Problem-solving projects<br>- Application development<br><br>### 🤖 AI Projects<br><br>Exploring artificial intelligence by integrating AI into useful applications and experimenting with modern AI technologies.<br><br>- AI-powered applications<br>- Intelligent automation<br>- AI APIs<br>- Generative AI experiments<br><br>---<br><br>## 📌 Featured Projects<br><br>### 🔥 VerTrace<br><br>A TypeScript-based project focused on building a practical software solution.<br><br>**Tech:** TypeScript<br><br>[View Project →](https://github.com/sauru2007/VerTrace)<br><br>---<br><br>### 🌐 Web Development Projects<br><br>A collection of web development projects built while improving my frontend and JavaScript skills.<br><br>**Includes:**<br><br>- Responsive websites<br>- Interactive applications<br>- Browser games<br>- Utility projects<br>- JavaScript-based applications<br><br>[Explore Web Projects →](https://github.com/sauru2007?tab=repositories&q=PRODIGY_WD)<br><br>---<br><br>### ☕ Java Projects<br><br>Java projects created to strengthen programming fundamentals and practical development skills.<br><br>[Explore Java Projects →](https://github.com/sauru2007/CODSOFT)<br><br>---<br><br>## 📊 GitHub Statistics<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=sauru2007&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauru2007&layout=compact&hide_border=true&langs_count=8" height="170"/><br></p><br><br>---<br><br>## 📈 My Development Journey<br><br>```text<br>Web Development<br>       │<br>       ├── HTML / CSS / JavaScript<br>       │<br>       ▼<br>Programming<br>       │<br>       ├── Java<br>       ├── Python<br>       │<br>       ▼<br>Software Development<br>       │<br>       ├── Applications<br>       ├── Automation<br>       │<br>       ▼<br>Artificial Intelligence<br>       │<br>       ├── AI Applications<br>       ├── Generative AI<br>       └── AI-powered Automation
 
-### Software Developer | Web Development | Java | Python
 
-I build practical software projects, experiment with new technologies, and continuously improve my development skills through hands-on projects.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sidharth-pandey-615a43287) 
 
-Currently focused on **Web Development, Java, and building real-world applications.**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sauru2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sauru2007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sauru2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🚀 About Me
-
-* 💻 Interested in **Software Development & Web Development**
-* ☕ Currently working with **Java**
-* 🌐 Building projects with **HTML, CSS & JavaScript**
-* 🧠 Learning by building and solving practical problems
-* 🔨 Focused on turning ideas into functional applications
-* 📚 Continuously improving my programming and development skills
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sauru2007&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sauru2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Web Development Projects
-
-A collection of web applications developed while improving my frontend development skills.
-
-**Includes:**
-
-* Responsive web interfaces
-* Interactive JavaScript applications
-* Browser-based games
-* Utility applications
-* API-based projects
-
-👉 [View Web Development Projects](https://github.com/sauru2007?tab=repositories&q=PRODIGY_WD)
-
----
-
-### ☕ Java Development
-
-Java programming projects developed as part of my programming practice and internship work.
-
-👉 [View Java Projects](https://github.com/sauru2007/CODSOFT)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauru2007&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauru2007&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-```text
-Web Development
-      ↓
-Java & Programming Fundamentals
-      ↓
-Building Larger Projects
-      ↓
-Learning Advanced Development
-```
-
-I am currently focused on building stronger fundamentals and creating projects that demonstrate practical development skills.
-
----
-
-## 📂 Explore My Work
-
-**GitHub:**
-[github.com/sauru2007](https://github.com/sauru2007)
-
----
-
-<p align="center">
-  <i>Build. Learn. Improve. Repeat.</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
