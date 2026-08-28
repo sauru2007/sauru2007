@@ -1,6 +1,6 @@
 # Hi, I'm Sidharth 👋
 
-### Software Developer | Web Development | Java
+### Software Developer | Web Development | Java | Python
 
 I build practical software projects, experiment with new technologies, and continuously improve my development skills through hands-on projects.
 
